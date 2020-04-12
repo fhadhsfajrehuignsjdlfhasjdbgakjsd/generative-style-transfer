@@ -1,4 +1,4 @@
-# # generative-style-transfer
+# generative-style-transfer
 This repository contains recently successful style transfer algorithms implemented by me at the educational center "Sirius". Algorithms:
 ## - Neural style transfer. 
 Classical implementation using pretrained VGG19 to calculate content and style tensors.
