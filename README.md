@@ -2,6 +2,7 @@
 This repository contains recently successful style transfer algorithms implemented by me at the educational center "Sirius". Algorithms:
 ## - Neural style transfer. 
 Classical implementation using pretrained VGG19 to calculate content and style tensors.
+![](https://sun9-62.userapi.com/c858328/v858328638/1c6fb2/l8EIxwJ5Fkw.jpg)
 
 ## GAN
 Classical implementation training two networks simultaneously in order to get generator that knows the distribution of train data and can reproduce it from random noise
@@ -9,7 +10,6 @@ Classical implementation training two networks simultaneously in order to get ge
 ![](https://sun9-6.userapi.com/c858328/v858328638/1c7033/pdllMeHy3tk.jpg)![](https://sun9-33.userapi.com/c858328/v858328638/1c703a/9jOmROx4ymA.jpg)
 ![](https://sun9-2.userapi.com/c858328/v858328638/1c7041/v_hvy-fGuiU.jpg)
 
-![](https://sun9-62.userapi.com/c858328/v858328638/1c6fb2/l8EIxwJ5Fkw.jpg)
 ## - pix2pix
 Implemented in keras using GAN architecture on shoes dataset.
 
